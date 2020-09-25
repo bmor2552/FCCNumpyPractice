@@ -21,5 +21,5 @@ The way I approached this challenge was by following the steps below:
 # Conclusion
 I was able to manipulate numpy arrays by writing a function which in return produced a dictionary of lists. Things I would do differently are, I would spend a little more time gathering information at the beginning so the coding process can go by quicker. I do not expect to memorize all methods and attributes I can use for such a challenge. But I see that with plenty of research in the beginning, I can produce faster results.  
 
-Repository Guide
+# Repository Guide
 **Note Book:** https://github.com/bmor2552/FCCNumpyPractice/blob/master/Numpy_Practice%20.ipynb
